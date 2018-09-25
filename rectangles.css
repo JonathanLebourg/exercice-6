@@ -1,0 +1,11 @@
+.rectangle1 {
+width: 80%;
+height: 30px;
+background: #32cd32;
+}
+
+.rectangle2 {
+width: 20%;
+height: 30px;
+background: blue;
+}
