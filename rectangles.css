@@ -2,10 +2,61 @@
 width: 80%;
 height: 30px;
 background: #32cd32;
+float:left;
 }
 
 .rectangle2 {
 width: 20%;
 height: 30px;
 background: blue;
+float:right;
+}
+
+.rectangle3 {
+width: 40%;
+height: 100px;
+background: red;
+float:left;
+}
+
+.rectangle4 {
+width: 30%;
+height: 50px;
+background: darkgray;
+float: right;
+}
+
+.rectangle5 {
+width: 30%;
+height: 50px;
+background: orange;
+float: right;
+}
+
+.rectangle6 {
+width: 20%;
+height: 50px;
+background: red;
+float: right;
+}
+
+.rectangle7 {
+width: 20%;
+height: 50px;
+background: MediumAquamarine;
+float: right;
+}
+
+.rectangle8 {
+width: 20%;
+height: 50px;
+background: gold;
+float: right;
+}
+
+.rectangle9 {
+width: 100%;
+height: 200px;
+background: indigo;
+float: right;
 }
